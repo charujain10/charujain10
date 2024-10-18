@@ -1,7 +1,7 @@
 
-## Hi there 👋✨
+## Hi there 👋✨ I’m Charu! Thanks for visiting my profile❤️
 
-I’m Charu Jain, an M.Tech student at IIIT Hyderabad, passionate about software development & product management. I believe understanding the "why" behind product development is crucial, which is why I’m diving into product design and management alongside honing my technical skills. Creating **user-centric** products is my mission! 😊💡
+An M.Tech student at IIIT Hyderabad, passionate about software development & product management. I believe understanding the "why" behind product development is crucial, which is why I’m diving into product design and management alongside honing my technical skills. Creating **user-centric** products is my mission! 😊💡
 
 ### 👯 I’m looking to collaborate on:
 - **🤝 Innovative projects** that prioritize user experience and technology integration.
