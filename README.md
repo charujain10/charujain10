@@ -1,7 +1,7 @@
 
 ## Hi there 👋✨ I’m Charu! Thanks for visiting my profile❤️
 
-An M.Tech student at IIIT Hyderabad, passionate about software development & product management. I believe understanding the "why" behind product development is crucial, which is why I’m diving into product design and management alongside honing my technical skills. Creating **user-centric** products is my mission! 😊💡
+An M.Tech student at IIIT Hyderabad, passionate about software development & product management. I believe understanding the "why" behind product development is crucial, which is why I’m diving into product alongside honing my technical skills. Creating **user-centric** products is my mission! 😊💡
 
 ### 👯 I’m looking to collaborate on:
 - **🤝 Innovative projects** that prioritize user experience and technology integration.
@@ -22,7 +22,7 @@ An M.Tech student at IIIT Hyderabad, passionate about software development & pro
 
 ### 💼 Skills
 - **🛠️ Technical Skills**:
-  - **💻 Programming**: C, C++, SQL
+  - **💻 Programming**: C, C++, Python, Java, SQL
   - **🌐 Web Development**: React, Node.js, Express, MongoDB, HTML, CSS, JavaScript
   - **🔧 Salesforce Development**: Apex, Visualforce, Salesforce Lightning
   - **📊 Software Engineering**: System Design, High-Level Design (HLD), Low-Level Design (LLD)
