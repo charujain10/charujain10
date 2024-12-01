@@ -1,5 +1,5 @@
 
-## Hi there 👋✨ I’m Charu! Thanks for visiting my profile❤️
+## Hi there 👋✨ I’m Charu! Thanks for visiting my profile :) 
 
 An M.Tech student at IIIT Hyderabad, passionate about software development & product management. I believe understanding the "why" behind product development is crucial, which is why I’m also learning about product alongside honing my technical skills. Creating & developing **user-centric** products is my mission! 😊💡
 
