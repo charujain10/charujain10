@@ -1,6 +1,5 @@
 
-## Hi there 👋✨ I’m Charu! [I'm a Product Manager](https://pyrite-marble-72e.notion.site/Hi-I-m-Charu-I-m-a-Product-manager-2299bffc04fc8053b949c5df2c8cb30f?pvs=143)
-Thanks for visiting my profile :) 
+## Hi there 👋✨ I’m Charu! [I'm a Product Manager](https://pyrite-marble-72e.notion.site/Hi-I-m-Charu-I-m-a-Product-manager-2299bffc04fc8053b949c5df2c8cb30f?pvs=143) Thanks for visiting my profile :) 
 
 An M.Tech student at IIIT Hyderabad, passionate about product management. I believe understanding the "why" behind product development is crucial. Creating & developing **user-centric** products is my mission! 😊💡
 
