@@ -1,16 +1,17 @@
 
-## Hi there 👋✨ I’m Charu! Thanks for visiting my profile :) 
+## Hi there 👋✨ I’m Charu! [Hi, I'm Charu — Product Manager](https://pyrite-marble-72e.notion.site/Hi-I-m-Charu-I-m-a-Product-manager-2299bffc04fc8053b949c5df2c8cb30f?pvs=143)
+Thanks for visiting my profile :) 
 
-An M.Tech student at IIIT Hyderabad, passionate about software & product development. I believe understanding the "why" behind product development is crucial, which is why I’m also learning about product alongside honing my technical skills. Creating & developing **user-centric** products is my mission! 😊💡
+An M.Tech student at IIIT Hyderabad, passionate about product management. I believe understanding the "why" behind product development is crucial. Creating & developing **user-centric** products is my mission! 😊💡
 
 ### 👯 I’m looking to collaborate on:
 - **🤝 Innovative projects** that prioritize user experience and technology integration.
-- **🌍 Open-source contributions** in areas like software engineering.
+- **🌍 Open-source contributions** in areas like product management & software engineering.
 
 ### 💬 Ask me about:
 - **📊 Data Structures and Problem Solving**: I love tackling algorithm challenges and optimizing solutions! 💡
 - **📚 Full Stack Development** (React, Node.js, MongoDB).
-- **🛠️ Product Management strategies** and user-centered design principles.
+- **🛠️ Product Design & Management strategies** and user-centered design principles.
 - **⚙️ Salesforce development** and best practices.
 
 ### 📫 How to reach me:
@@ -19,6 +20,7 @@ An M.Tech student at IIIT Hyderabad, passionate about software & product develop
 - **🐱 [GitHub](https://github.com/charujain10)**
 - **🔗 [LinkedIn](https://linkedin.com/in/charu-jain-596973141/)**
 - **📸 [Instagram](https://www.instagram.com/charu_jain1/)**
+- **✉️ [Portfolio](https://pyrite-marble-72e.notion.site/Hi-I-m-Charu-I-m-a-Product-manager-2299bffc04fc8053b949c5df2c8cb30f?pvs=143)**
 
 ### 💼 Skills
 - **🛠️ Technical Skills**:
