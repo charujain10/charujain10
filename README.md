@@ -108,7 +108,7 @@ My work spans:
 
 Thanks for visiting my profile!  
 ✨ *Let’s build something meaningful together.*  
-
+<!--
 - **🛠️ Technical Skills**:
   - **💻 Programming**: C, C++, Python, Java, SQL
   - **🌐 Web Development**: React, Node.js, Express, MongoDB, HTML, CSS, JavaScript
